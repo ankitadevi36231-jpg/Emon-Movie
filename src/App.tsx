@@ -20,10 +20,10 @@ import {
 } from 'lucide-react';
 
 // Censor certificate generated specifically for this landing page
-const heroPlayerImg = "/src/assets/images/cbfc_censor_certificate_1782368269996.jpg";
-const moviePoster1 = "/src/assets/images/movie_poster_1_1782367371556.jpg";
-const moviePoster2 = "/src/assets/images/movie_poster_2_1782367384548.jpg";
-const moviePoster3 = "/src/assets/images/movie_poster_3_1782367403848.jpg";
+const heroPlayerImg = "/cbfc_censor_certificate_1782368269996.jpg";
+const moviePoster1 = "/movie_poster_1_1782367371556.jpg";
+const moviePoster2 = "/movie_poster_2_1782367384548.jpg";
+const moviePoster3 = "/movie_poster_3_1782367403848.jpg";
 
 export default function App() {
   const adLink = "https://beastlyfluke.com/p8qcw7a1?key=469a489eda52c136a8c82a6094debcbe";
