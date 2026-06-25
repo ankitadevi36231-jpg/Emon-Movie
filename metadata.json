@@ -1,0 +1,6 @@
+{
+  "name": "Movie Landing Page",
+  "description": "An interactive Bengali movie landing page with rich posters, high-speed download buttons, and dynamic trailers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
